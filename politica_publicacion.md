@@ -67,11 +67,11 @@ La Dirección General de Calidad Institucional y Gobierno Abierto posee el permi
 
 Las modalidades de contratación se encuentran detalladas como prefijo en los valores de campo contracts/0/id. 
 
-SPR- para los contratos con modalidad orden de compra abierta
+- SPR- para los contratos con modalidad orden de compra abierta
 
-OCC- para los contratos con modalidad orden de compra cerrada
+- OCC- para los contratos con modalidad orden de compra cerrada
 
-CM- para los contratos con modalidad convenio marco
+- CM- para los contratos con modalidad convenio marco
 
 Los procedimientos de selección de los proveedores se encuentran detallados en el campo  procurementMethod y procurementMethodDetails de la etapa “tender”. 
 
@@ -135,67 +135,65 @@ La Dirección General de Calidad Institucional y Gobierno Abierto es el área re
 
 ### 4- Codigos, lista de códigos y extensiones utilizadas en la publicación de datos 
 
-
-#### 
 - Códigos: Items
 - Nombre de la lista: x_catalogo_bienes_servicios_BAC
-- Descripción: Listado de códigos utilizados en el sistema BAC para identificar bienes o servicios y sus respectivos modelos. Disponible aquí. Usuario: CATALOGO ; Contraseña: consulta
+- Descripción: Listado de códigos utilizados en el sistema BAC para identificar bienes o servicios y sus respectivos modelos. Disponible aquí[https://catalogoba.dguiaf-gcba.gov.ar/]. Usuario: CATALOGO ; Contraseña: consulta
 
-Unidades de medida
-x_unidades_medida_bac
-Unidades de medida utilizadas en el sistema BAC
-Unidades de medida
-UNCEFACT
-Códigos de unidades de medida propuestos por Naciones Unidas para el comercio internacional.
-Código de identificación de proveedores
-AR-CUIT
-Listado de códigos utilizados para identificar a los proveedores de bienes o servicios. Se construye en base al número de CUIT de los mismos.
-Código de identificación de unidades ejecutoras y unidades operativas de adquisiciones
-CABA-UE
-Listado de códigos utilizados para identificar a las agencias de gobierno que participan del proceso de compras.
+- Códigos: Unidades de medida
+- Nombre de la lista: x_unidades_medida_bac
+- Descripción: Unidades de medida utilizadas en el sistema BAC
 
+- Códigos: Unidades de medida
+- Nombre de la lista: UNCEFACT
+- Descripción: Códigos de unidades de medida propuestos por Naciones Unidas para el comercio internacional.
 
-Campo
-Valor OCDS
-Valor BAC
-procurementMethod 
-direct
-contratación menor; contratación directa
-procurementMethod 
-open
-licitación pública
-procurementMethod 
-limited
-licitación privada
+- Códigos: Código de identificación de proveedores
+- Nombre de la lista: AR-CUIT
+- Descripción: Listado de códigos utilizados para identificar a los proveedores de bienes o servicios. Se construye en base al número de CUIT de los mismos.
 
+- Códigos: Código de identificación de unidades ejecutoras y unidades operativas de adquisiciones
+- Nombre de la lista: CABA-UE
+- Descripción: Listado de códigos utilizados para identificar a las agencias de gobierno que participan del proceso de compras.
 
+- Campo: procurementMethod 
+- Valor OCDS: direct
+- Valor BAC: contratación menor; contratación directa
 
-Extensión utilizada
-Descripción
-Link a la extensión
-Signatories
-Listado de participantes en la firma del contrato. Compradores, proveedores y entidades procuradoras
-https://github.com/open-contracting-extensions/ocds_contract_signatories_extension
+- Campo: procurementMethod
+- Valor OCDS: open
+- Valor BAC: licitación pública
 
-Responsabilidad, información de contacto y comentarios 
+- Campo: procurementMethod
+- Valor OCDS: limited
+- Valor BAC: licitación privada
+
+- Extensión utilizada: Signatories
+- Descripción: Listado de participantes en la firma del contrato. Compradores, proveedores y entidades procuradoras
+- Link a la extensión: https://github.com/open-contracting-extensions/ocds_contract_signatories_extension
+
+### 5- Responsabilidad, información de contacto y comentarios 
 
 La Dirección General de Compras y Contrataciones (DGCYC) del Ministerio de Economía y Finanzas es el responsable de producir la información de las compras y contrataciones que se registran en el sistema Buenos Aires Compras (BAC). Para entender el proceso de compras de la ciudad, la Dirección General de Compras y Contrataciones (DGCYC) pone a disposición de los empleados y proveedores del Gobierno de la Ciudad, cursos de capacitación presenciales y de forma online. Para solicitar información sobre los cursos online puede acceder al campus virtual dguiafvirtual.buenosaires.gob.ar/ o puede enviar un mail a logistica@dguiaf-gcba.gov.ar. 
+
 La Dirección General de Calidad Institucional y Gobierno Abierto (DGCIGA) es responsable de la implementación del estándar Open Contracting y de la publicación de los OCDS. Ante cualquier comentario o duda puede contactarse por mail a través de gobiernoabierto@buenosaires.gob.ar . Cuando nos envíe sus comentarios, realizaremos un análisis y seguimiento del tema planteado, posteriormente nos pondremos en contacto para informar sobre los resultados y/o acciones posteriores.
  
 
-Licencias 
+### 6- Licencias 
 
 La publicación de los datos de compras y contrataciones del sistema BAC en el Estándar para las Contrataciones Abiertas (OCDS) se realiza bajo la licencia Creative Commons Legal Code Atribución 2.5 Argentina. Esto permite que los usuarios de datos realicen las siguientes acciones: 
-Compartir, copiar y redistribuir material en cualquier medio o formato. 
-Adaptar, remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial. 
-Utilizar estos datos para cualquier propósito, incluido uso comercial y no comercial.
-Publicar contenido basado en el uso de los datos publicados.
+
+- Compartir, copiar y redistribuir material en cualquier medio o formato. 
+- Adaptar, remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercial. 
+- Utilizar estos datos para cualquier propósito, incluido uso comercial y no comercial.
+- Publicar contenido basado en el uso de los datos publicados.
 
 El texto completo de la licencia, se puede encontrar en creativecommons.org/licenses/by/2.5/ar/legalcode 
 
 
-Documentación Adicional 
+### 7- Documentación Adicional 
 
 Ley 104 de Acceso a la Información Pública establece la obligación de los distintos sujetos obligados de publicar en sus respectivas páginas web, de manera completa y actualizada y en lo posible en formatos abiertos y reutilizables, la información relativa a contrataciones públicas. Se puede encontrar la ley completa así como el marco normativo en buenosaires.gob.ar/gobierno/ley-ndeg-104. 
+
 La normativa completa que regula la compra y contratación de bienes y servicios de la ciudad, que incluye la Ley Nº 2090 y su decreto reglamentario Decreto N° 326/17, se encuentran disponibles en buenosairescompras.gob.ar/normativa.aspx.
+
 El Pliego Único de Bases y Condiciones Generales para los procesos de compras y contrataciones mediante BAC, aprobado por Disposición Nº 396/DGCYC/14 se encuentra disponible en el portal de compras, tanto en la sección “Normativa” como en cada uno de los procesos tramitados por esa vía. 
