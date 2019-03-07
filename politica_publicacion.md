@@ -1,7 +1,7 @@
 ## Política de Publicación 
 ## Ciudad de Buenos Aires
 
-La política de datos abiertos del Gobierno de la Ciudad de Buenos Aires tiene sus inicios en 2012 con el lanzamiento del portal data.buenosaires.gob.ar, el cual al día de hoy ya concentra más de 1000 recursos disponibles en formato abierto. Hace más de una década que la Ciudad cuenta con el sistema de compras y contrataciones públicas llamado BAC (Buenos Aires Compras), el cual garantiza transparencia y celeridad en los procesos. Si bien desde sus inicios el sistema contaba con un portal para consultar información acerca de los procesos de compra, la misma no se encontraba en formato abierto lo cual obstaculizaba su reutilización. Desde principios del año 2018 el Gobierno de la Ciudad de Buenos Aires comenzó a trabajar en la publicación de la información del sistema de compras y contrataciones públicas BAC (Buenos Aires Compras) en formato abierto. Con este trabajo, se pone a disposición de la ciudadanía, el acceso a información sobre las contrataciones públicas que le permite saber cómo se gestionan las mismas. La disponibilidad de estos datos fue un salto cualitativo fundamental, garantizando el derecho a la información, fortaleciendo la transparencia de los actos de gobierno
+La política de datos abiertos del Gobierno de la Ciudad de Buenos Aires tiene sus inicios en 2012 con el lanzamiento del portal data.buenosaires.gob.ar, el cual al día de hoy ya concentra más de 1000 recursos disponibles en formato abierto. Hace más de una década que la Ciudad cuenta con el sistema de compras y contrataciones públicas llamado BAC (Buenos Aires Compras), el cual garantiza transparencia y celeridad en los procesos. Si bien desde sus inicios el sistema contaba con un portal para consultar información acerca de los procesos de compra, la misma no se encontraba en formato abierto lo cual obstaculizaba su reutilización. Desde principios del año 2018 el Gobierno de la Ciudad de Buenos Aires comenzó a trabajar en la publicación de la información del sistema de compras y contrataciones públicas BAC (Buenos Aires Compras) en formato abierto. Con este trabajo, se pone a disposición de la ciudadanía, el acceso a información sobre las contrataciones públicas que le permite saber cómo se gestionan las mismas. La disponibilidad de estos datos fue un salto cualitativo fundamental, garantizando el derecho a la información, fortaleciendo la transparencia de los actos de gobierno.
 
 El procedimiento de compras y contrataciones que se realiza en la ciudad, se instrumenta a través del Sistema de Registro Informatizado de Contrataciones en el ámbito del Ministerio de Hacienda de la Ciudad de Buenos Aires. Regulada por la Ley N° 2.095, Ley de Compras y Contrataciones de la Ciudad de Buenos Aires y su decreto reglamentario.
 
@@ -10,7 +10,7 @@ La adopción del Estándar de Datos para las Contrataciones Abiertas (OCDS por s
 La publicación de las compras y contrataciones en formato abierto y con el estándar de Contrataciones Abiertas fue gracias al trabajo en conjunto entre el Ministerio de Economía y Finanzas y Secretaría General y Relaciones Internacionales del Gobierno de la Ciudad de Buenos Aires.
 
 
-### Propósito de la publicación
+### 1- Propósito de la publicación
 
 El Estándar de Datos para las Contrataciones Abiertas (OCDS) es una estándar global de datos que promueve la divulgación de datos y documentos en todas las etapas del proceso de contratación. Este estándar ha sido desarrollado para que los proveedores de información compartan datos estructurados, estandarizados y reutilizables.
 
@@ -26,7 +26,7 @@ La importancia de la adaptación a este estándar radica en:
 - Mejorar la competitividad entre los proveedores de gobierno.
 - Reducir los costos y optimizar la relación precio calidad que enfrentan las áreas de gobierno.
 
-### Detalles de la publicación
+### 2- Detalles de la publicación
 
 
 Con previa autorización del Ministerio de Economía y Finanzas, la Dirección General de Calidad Institucional y Gobierno Abierto (DGCIGA), responsable de la política de gobierno abierto, accede a la base de datos de Buenos Aires Compras (BAC), la cual  incluye todos los procesos de compra en sus distintas etapas:
@@ -35,104 +35,112 @@ Con previa autorización del Ministerio de Economía y Finanzas, la Dirección G
 - Contratación: Detalle de órdenes de compra
 	
 	Los procesos de compras y contrataciones que se incluyen en la extracción de datos están relacionados con las modalidades especificadas en el sistema BAC y se detallan a continuación: 
+	
 Pliegos de Bases y Condiciones Generales: contiene el conjunto de condiciones aplicables a la totalidad de los contratos del Gobierno de la Ciudad, lo elabora y aprueba la Dirección General de Compras y Contrataciones en su carácter de Órgano Rector. 
-Pliegos de Bases y Condiciones Particulares: contiene las especificaciones que se establecen para cada contrato en particular, por ejemplo, cantidades, lugares, plazos de entrega y de pago, etc. Estos pliegos son elaborados por las distintas UOAs.
-Orden de compra cerrada: procede en el caso que la cantidad de bienes o servicios a contratar se fije concretamente en el contrato.   
-Orden de compra abierta: procede en el caso que la cantidad de bienes o servicios se fije sólo de forma aproximada en el contrato pudiendo realizar requerimientos en el lapso de duración. 
-Compra unificada: cuando dos o más reparticiones desean adquirir un mismo tipo de bien o servicio y se tramita de forma conjunta. 
-Subasta inversa: se adjudica al precio más bajo o a la oferta económica más ventajosa luego de efectuada la compulsa interactiva de precios. 
-Convenio Marco: se selecciona uno o más proveedores para procurar el suministro directo de bienes y servicios a las unidades ejecutoras en la forma, plazo y demás condiciones establecidas en dicho convenio. 
-Teniendo en cuenta las distintas etapas que conforman los procesos y las modalidades de contratación, los procedimientos de selección que se encuentran incluidos en el sistema BAC, son los siguientes: 
-Licitación Pública: la licitación o concurso es público cuando el llamado a participar está dirigido a una cantidad indeterminada de posibles oferentes con capacidad para obligarse, sin perjuicio del cumplimiento de los demás requisitos que exija el pliego de bases y condiciones particulares y el pliego de bases y condiciones generales.
-Licitación Privada: la licitación o concurso privado es el procedimiento de selección en el cual intervienen como oferentes los invitados en forma directa, sin anuncio público y debidamente fundado por el organismo licitante, debiendo hallarse inscriptos en el Registro Informatizado Único y Permanente de Proveedores.
-Contratación Directa: la contratación es directa cuando se selecciona directamente al proveedor, debiendo encontrarse dicha medida debidamente fundada y ponderada por la autoridad competente. 
-Contratación Menor: es aquel procedimiento de contratación directa que se aplica cuando el monto total de la contratación no supere el equivalente a cien mil (100.000) unidades de compra.
 
+Pliegos de Bases y Condiciones Particulares: contiene las especificaciones que se establecen para cada contrato en particular, por ejemplo, cantidades, lugares, plazos de entrega y de pago, etc. Estos pliegos son elaborados por las distintas UOAs.
+
+Orden de compra cerrada: procede en el caso que la cantidad de bienes o servicios a contratar se fije concretamente en el contrato. 
+
+Orden de compra abierta: procede en el caso que la cantidad de bienes o servicios se fije sólo de forma aproximada en el contrato pudiendo realizar requerimientos en el lapso de duración. 
+
+Compra unificada: cuando dos o más reparticiones desean adquirir un mismo tipo de bien o servicio y se tramita de forma conjunta. 
+
+Subasta inversa: se adjudica al precio más bajo o a la oferta económica más ventajosa luego de efectuada la compulsa interactiva de precios. 
+
+Convenio Marco: se selecciona uno o más proveedores para procurar el suministro directo de bienes y servicios a las unidades ejecutoras en la forma, plazo y demás condiciones establecidas en dicho convenio. 
+
+Teniendo en cuenta las distintas etapas que conforman los procesos y las modalidades de contratación, los procedimientos de selección que se encuentran incluidos en el sistema BAC, son los siguientes: 
+
+Licitación Pública: la licitación o concurso es público cuando el llamado a participar está dirigido a una cantidad indeterminada de posibles oferentes con capacidad para obligarse, sin perjuicio del cumplimiento de los demás requisitos que exija el pliego de bases y condiciones particulares y el pliego de bases y condiciones generales.
+
+Licitación Privada: la licitación o concurso privado es el procedimiento de selección en el cual intervienen como oferentes los invitados en forma directa, sin anuncio público y debidamente fundado por el organismo licitante, debiendo hallarse inscriptos en el Registro Informatizado Único y Permanente de Proveedores.
+
+Contratación Directa: la contratación es directa cuando se selecciona directamente al proveedor, debiendo encontrarse dicha medida debidamente fundada y ponderada por la autoridad competente. 
+
+Contratación Menor: es aquel procedimiento de contratación directa que se aplica cuando el monto total de la contratación no supere el equivalente a cien mil (100.000) unidades de compra.
 
 ### 2.1. 	Creación de Datasets OCDS
 La Dirección General de Compras y Contrataciones dependiente del Ministerio de Economía y Finanzas de la Ciudad de Buenos Aires realiza la instrumentación de los procedimientos para la tramitación de compras o contrataciones, cualquiera sea su modalidad o naturaleza, interviniendo en todas las instancias del trámite administrativo que se derivan de la acción de contratar, regulado por la Ley de Compras y Contrataciones de la Ciudad de Buenos Aires y su decreto reglamentario. 
+
 La Dirección General de Calidad Institucional y Gobierno Abierto posee el permiso para la extracción completa de la base de datos de Buenos Aires Compras (BAC) que incluyen las tres etapas del proceso de compras y contrataciones, las modalidades de contratación y los procedimientos de selección, descriptos precedentemente. 
+
 Las modalidades de contratación se encuentran detalladas como prefijo en los valores de campo contracts/0/id. 
-SPR- para los contratos con modalidad orden de compra abierta.
+
+SPR- para los contratos con modalidad orden de compra abierta
+
 OCC- para los contratos con modalidad orden de compra cerrada
+
 CM- para los contratos con modalidad convenio marco
-	Los procedimientos de selección de los proveedores se encuentran detallados en el campo  procurementMethod y procurementMethodDetails de la etapa “tender”. 
+
+Los procedimientos de selección de los proveedores se encuentran detallados en el campo  procurementMethod y procurementMethodDetails de la etapa “tender”. 
+
 Esta información es proporcionada a través de un archivo CSV con datos estructurados y la conversión a OCDS se realiza a través de un script de python. La publicación de datos de compras de bienes o servicios bajo el estándar propuesto están disponibles en formato CSV y JSON. Su actualización se realiza con una frecuencia de 15 días corridos.
-Gráfico del proceso:
 
-
-
-
-
-2.2. Acceso a los datos 
-
+### 2.2. Acceso a los datos 
 
 El acceso a los datos de compras y contrataciones de bienes y servicios de la ciudad en formato abierto, se realiza a través del portal de datos abiertos data.buenosaires.gob.ar.
-Portal de datos
+
+#### Portal de datos
 Buenos Aires Data es el portal de datos abiertos de la ciudad, está disponible en data.buenosaires.gob.ar.  Utiliza código abierto CKAN / Andino desarrollado por el Gobierno Nacional. CKAN es un software libre que permite la organización de los datos publicados a través de un esquema de conjunto de datos y recursos, así como el acceso programático a estos, aplicando estándares aprobados internacionalmente para la generación de datos. Este software es distribuido bajo la licencia GNU Affero General Public License. 
+
 La implementación de está nueva tecnología implica una mejor experiencia de usuario ya que dispone de una interfaz moderna, que permite incorporar nuevas secciones, agregando valor a la publicación de los datos: 
-#HistoriaConDatos: se realiza la publicación de investigaciones, análisis, visualizaciones y desarrollos que usan datos abiertos para ponerlos en valor. 
-Google Dataset Search: todo el contenido de BA Data es descubrible a través del buscador google. 
+
+- #HistoriaConDatos: se realiza la publicación de investigaciones, análisis, visualizaciones y desarrollos que usan datos abiertos para ponerlos en valor. 
+
+- Google Dataset Search: todo el contenido de BA Data es descubrible a través del buscador google. 
+
 En nuestro portal, se puede encontrar el dataset de las compras y contrataciones de la ciudad bajo el estándar Open Contracting en 10.17.1.206/dataset?q=bac. 
 
-Datos OCDS
-Los datos OCDS se encuentran disponibles en formato JSON y CVS. JSON es un formato para realizar intercambio de datos y puede ser leído por cualquier lenguaje de programación. Este formato describe nombres y definiciones de campos, además de estructuras para los datos. Por su parte, CVS representa datos en forma de tabla. Existen varias  técnicas para transformar un archivo JSON a un archivo CVS y las herramientas recomendadas por Open Contrating Partnership (OCP), se pueden encontrar en: standard.open-contracting.org/latest/es/implementation/serialization/. 
-En el caso particular de la Ciudad de Buenos Aires, estos formatos se utilizan según la siguiente descripción: 
-Formato
-Descripción
-Links 
-Descarga CVS
+#### Datos OCDS
 
+Los datos OCDS se encuentran disponibles en formato JSON y CVS. 
 
-Archivos anuales segmentados por fecha de lanzamiento.
-Adecuado para el análisis y / o almacenamiento en una base de datos de documentos.
+JSON es un formato para realizar intercambio de datos y puede ser leído por cualquier lenguaje de programación. Este formato describe nombres y definiciones de campos, además de estructuras para los datos.
 
-
-Descarga JSON
-Archivo zip anual que contiene una serialización CSV de tablas múltiples de datos OCDS, segmentados por fecha de lanzamiento.
-Adecuado para análisis en software de hoja de cálculo y / o almacenamiento en una base de datos relacional.
+Por su parte, CVS representa datos en forma de tabla. Existen varias  técnicas para transformar un archivo JSON a un archivo CVS y las herramientas recomendadas por Open Contrating Partnership (OCP), se pueden encontrar en: standard.open-contracting.org/latest/es/implementation/serialization/. 
 
 
 
 
-Links a otros datos relevantes 
+#### Links a otros datos relevantes 
+
 El Gobierno de la Ciudad de Buenos Aires también publica otro conjunto de datos que los usuarios pueden encontrar útiles en el contexto de nuestras publicaciones OCDS. 
+
 Los datos sobre presupuesto sancionado y presupuesto ejecutado están disponibles sin la aplicación del formato Open Contracting. El presupuesto sancionado de la ciudad se encuentra disponible en data.buenosaires.gob.ar/dataset/presupuesto-sancionado contando con datos desde el año 2005. Por otro lado, el presupuesto ejecutado se encuentra disponible en https://data.buenosaires.gob.ar/dataset/presupuesto-ejecutado desde el año 2015 a la fecha. 
 
-Alcance de los datos 
-
+### 3- Alcance de los datos 
 	
-Fecha 
+#### Fecha 
 marzo de 2011 - Actualidad
-Compradores 
+#### compradores 
 Los compradores son las unidades ejecutoras del Gobierno de la Ciudad de Buenos Aires.Incluye las áreas de Jefatura de Gobierno, Vicejefatura, Jefatura de Gabinete de Ministros, Ministerios, Secretarías, Subsecretarías, Direcciones Generales, Unidades de proyectos especiales. 
-Valores 
+#### Valores 
 El Gobierno de la Ciudad de Buenos Aires no tiene un valor de contratación por debajo o por encima del cual se excluyan los datos de contratación.
-Tipos de proceso
+#### Tipos de proceso
 Orden de compra abierta, orden de compra cerrada, compra unificada, subasta inversa y convenio Marco. 
-Etapas 
+#### Etapas 
 Publicamos los datos de convocatoria, licitación o concurso, adjudicación y contratos para cada proceso de contratación. 
-Cantidad de procesos
+#### Cantidad de procesos
 La cantidad de procesos publicados es creciente con el correr de los años. Esto se encuentra directamente relacionado con la extensión del uso del sistema BAC para gestionar compras y contrataciones.
 
 
-3.2. Aspectos legales y OCDS
+#### 3.2. Aspectos legales y OCDS
 
 El Gobierno de la Ciudad lleva adelante la política de apertura de datos desde el años 2012 con la firma del decreto 156/2012. Esto impulsó la creación de la plataforma de datos publicos data.buenosaires.gob.ar para facilitar la búsqueda, descubrimiento y acceso de los datos abiertos producidos por la ciudad. 
+
 A fines de 2015, la Ciudad firmó la Carta Internacional de Datos Abiertos a través de la cual, se compromete a seguir e implementar los lineamientos para datos públicos. Sumado, a la sanción de la Ley de Acceso a la Información Pública (Ley N° 104) implicó un avance en materia de apertura ya que establece el formato abierto como criterio fundamental. 
+
 La Dirección General de Calidad Institucional y Gobierno Abierto es el área responsable de diseñar e implementar la política de datos abiertos de la ciudad a través de data.buenosaires.gob.ar. Actualmente, aplicamos el estándar Open Contracting a través de la publicación de datos OCDS. 
 
-Codigos, lista de códigos y extensiones utilizadas en la publicación de datos 
+### 4- Codigos, lista de códigos y extensiones utilizadas en la publicación de datos 
 
 
-Códigos
-Nombre de la lista
-Descripción
-Items
-x_catalogo_bienes_servicios_BAC
-Listado de códigos utilizados en el sistema BAC para identificar bienes o servicios y sus respectivos modelos. Disponible aquí.
-Usuario: CATALOGO 
-Contraseña: consulta
+#### 
+- Códigos: Items
+- Nombre de la lista: x_catalogo_bienes_servicios_BAC
+- Descripción: Listado de códigos utilizados en el sistema BAC para identificar bienes o servicios y sus respectivos modelos. Disponible aquí. Usuario: CATALOGO ; Contraseña: consulta
+
 Unidades de medida
 x_unidades_medida_bac
 Unidades de medida utilizadas en el sistema BAC
