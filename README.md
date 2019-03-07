@@ -3,4 +3,4 @@ Documentación de la publicación de los datos de Compras y Contrataciones del G
 
 ### [Política de publicación](https://github.com/datosgcba/open_contracting/blob/master/politica_publicacion.md)
 
-
+### [Diccionario de campos](http://standard.open-contracting.org/latest/es/schema/reference/)
